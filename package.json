@@ -1,0 +1,15 @@
+{
+  "name": "itoolzoo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "cd hexo-blog && hexo generate",
+    "clean": "cd hexo-blog && hexo clean",
+    "deploy": "cd hexo-blog && hexo deploy",
+    "server": "cd hexo-blog && hexo server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
