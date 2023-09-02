@@ -7,3 +7,4 @@ blog/node_modules/
 blog/public/
 blog/.deploy*/
 blog/_multiconfig.yml
+/node_modules
