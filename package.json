@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "cd blog && hexo generate",
+    "build": "cd blog && hexo generate -output ./blog/public",
     "clean": "cd blog && hexo clean",
     "deploy": "cd blog && hexo deploy",
     "server": "cd blog && hexo server"
